@@ -41,6 +41,8 @@ Part I: How to contribute to this/any github project
 
 12. Wait for {{site.github_username}} to approve and merge the update
 
+13. Time for coffee Morten ;)
+
  
 Part II: Synchronizing with *upstream*
 ------------------------------
